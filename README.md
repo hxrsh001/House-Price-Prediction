@@ -54,6 +54,15 @@ Columns:
 - num_rooms
 - price
 
+## Database
+
+![Database](screenshots/database.png)
+
+## Program Output
+
+![Output](screenshots/output.png)
+
+
 ## Installation
 
 Clone the repository:
